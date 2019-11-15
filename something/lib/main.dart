@@ -82,3 +82,7 @@ return MaterialApp(
 }
 }
 
+git add fileName
+git commit -m 'message'
+git remote add origin 'link of the repository'
+git push --MaskFilter
